@@ -32,3 +32,31 @@ public class HelloWorld {
      
         
 }
+  class MyFirstProgram {}
+
+    System.out.println("This is a project");
+  class TestingTheWaters
+
+    //varaible TestingTheWaters
+
+    public static void main(String)[] args) {
+  
+       char letter= 'G';
+       Goal = 1;
+      
+      System.out.println("Goal");
+      System.out.println(Goal);
+      System.out.println(letter);
+
+        public static void ryanFunction()
+
+     System.out.println("Ryan added code to the project"); 
+     // This is my first time writing code
+
+        class MathOperators
+        public static void main(string[] args)
+
+      int days till christmas= 66;
+      days till chritsmas = days till christmas - 1;
+
+      System.out.println  (daystillchristmas)
